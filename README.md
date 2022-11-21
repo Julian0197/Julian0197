@@ -16,6 +16,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Webpack](https://img.shields.io/badge/-Webpack-75afcc?style=flat&logo=webpack)
+  ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
