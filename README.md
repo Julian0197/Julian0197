@@ -30,7 +30,7 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian0197&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian0197\&layout=compact&hide=jupyter%20notebook)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
