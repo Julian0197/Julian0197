@@ -4,8 +4,9 @@
 
 
 
-- 🎓 &nbsp; A student studying at Ecust
-- 💼 &nbsp; Looking for an opportunity about front-end job.
+- 🎓 &nbsp; ~~A student studying at Ecust~~ &nbsp; ByteDance FE
+- 💼 &nbsp; ~~Looking for an opportunity about front-end job.~~ &nbsp; Aspiring to become a full-stack developer!
+
 
 
 <br/>
