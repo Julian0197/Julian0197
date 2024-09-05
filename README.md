@@ -33,10 +33,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian0197&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
-</p>
-
 <details>
   <summary><b>🚀 2024 Goals</b></summary>
   <p>No specific goals for 2024, just keeping the momentum: work harder, learn continuously! 💪(･ω･)💪</p>
