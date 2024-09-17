@@ -21,7 +21,7 @@
 <p align="center">
   <samp>
     When I'm not coding, you'll find me:
-    <br>⚽ On the pitch or catching a match (Heja BVB!).
+    <br>⚽ On the pitch.
     <br>🧗 Conquering indoor bouldering routes (V2/V3 => V4).
     <br>🎮 Mastering FC<del>24</del>25.
   </samp>
@@ -58,7 +58,9 @@
   </a>
 </p>
 
-<p align="center">
-  <small style="color: #888;">I haven't posted a single X yet 😎</small>
-</p>
+<br/>
+
+## **📈 Contribution Graph**
+[![Julian0197's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Julian0197&theme=github-light)](https://github.com/Julian0197/github-readme-activity-graph)
+
 
