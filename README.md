@@ -22,7 +22,6 @@
   <samp>
     When I'm not coding, you'll find me:
     <br>⚽ On the pitch.
-    <br>🧗 Conquering indoor bouldering routes (V2/V3 => V4).
     <br>🎮 Mastering FC<del>24</del>25.
   </samp>
 </p>
@@ -32,11 +31,6 @@
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
   </samp>
 </p>
-
-<details>
-  <summary><b>🚀 2024 Goals</b></summary>
-  <p>No specific goals for 2024, just keeping the momentum: work harder, learn continuously! 💪(･ω･)💪</p>
-</details>
 
 <details>
   <summary><b>💼 Professional Journey</b></summary>
