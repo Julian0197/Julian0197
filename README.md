@@ -47,9 +47,6 @@
 
 <p align="center">
   <a href="mailto:msk123@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-msk123@foxmail.com-da282a"></a>
-  <a href="https://x.com/vh3907103140710">
-    <img alt="Twitter" src="https://img.shields.io/badge/X-%40vh3907103140710-1DA1F2">
-  </a>
 </p>
 
 <br/>
